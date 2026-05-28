@@ -175,7 +175,7 @@ Make sure the following are installed:
 ### Installation & Run Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/Imtiaz-Ali17314/Learning-Playwright-from-Youtube
+    git clone https://github.com/Imtiaz-Ali17314/Learning-Playwright-from-Youtube.git
     cd Learning-Playwright-from-Youtube
     ```
 2.  **Install Node Dependencies**:
